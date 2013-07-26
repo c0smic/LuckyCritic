@@ -1,4 +1,6 @@
 Luckycritic::Application.routes.draw do
+  devise_for :users
+
   resources :games
 
 
@@ -51,7 +53,7 @@ Luckycritic::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => 'welcome#index'
+  root :to => 'games#index'
 
   # See how all your routes lay out with "rake routes"
 

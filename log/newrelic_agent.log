@@ -55,3 +55,87 @@
 [07/26/13 03:41:14 +0000 luckycritic.jackketcham.com (1612)] INFO : Installing Rails 3.1/3.2 view instrumentation
 [07/26/13 03:41:14 +0000 luckycritic.jackketcham.com (1612)] INFO : Installing Rails3 Error instrumentation
 [07/26/13 03:41:14 +0000 luckycritic.jackketcham.com (1612)] INFO : Finished instrumentation
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Enabling the Request Sampler.
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Environment: development
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : No known dispatcher detected.
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Application: My Application
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Installing Net instrumentation
+[07/26/13 05:38:23 +0000 luckycritic.jackketcham.com (2507)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:38:24 +0000 luckycritic.jackketcham.com (2507)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:38:24 +0000 luckycritic.jackketcham.com (2507)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:38:24 +0000 luckycritic.jackketcham.com (2507)] INFO : Finished instrumentation
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : Enabling the Request Sampler.
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : Environment: development
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : No known dispatcher detected.
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] INFO : Application: My Application
+[07/26/13 05:39:03 +0000 luckycritic.jackketcham.com (2514)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Installing Net instrumentation
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:39:04 +0000 luckycritic.jackketcham.com (2514)] INFO : Finished instrumentation
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Enabling the Request Sampler.
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Environment: development
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : No known dispatcher detected.
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Application: My Application
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Installing Net instrumentation
+[07/26/13 05:39:15 +0000 luckycritic.jackketcham.com (2519)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:39:16 +0000 luckycritic.jackketcham.com (2519)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:39:16 +0000 luckycritic.jackketcham.com (2519)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:39:16 +0000 luckycritic.jackketcham.com (2519)] INFO : Finished instrumentation
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Enabling the Request Sampler.
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Environment: development
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : No known dispatcher detected.
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Application: My Application
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Installing Net instrumentation
+[07/26/13 05:40:56 +0000 luckycritic.jackketcham.com (2526)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:40:57 +0000 luckycritic.jackketcham.com (2526)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:40:57 +0000 luckycritic.jackketcham.com (2526)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:40:57 +0000 luckycritic.jackketcham.com (2526)] INFO : Finished instrumentation
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Enabling the Request Sampler.
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Environment: development
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : No known dispatcher detected.
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Application: My Application
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Installing Net instrumentation
+[07/26/13 05:43:27 +0000 luckycritic.jackketcham.com (2551)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:43:28 +0000 luckycritic.jackketcham.com (2551)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:43:28 +0000 luckycritic.jackketcham.com (2551)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:43:28 +0000 luckycritic.jackketcham.com (2551)] INFO : Finished instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Enabling the Request Sampler.
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Environment: development
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Dispatcher: mongrel
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Application: My Application
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] WARN : Agent configured not to send data in this environment.
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Installing Net instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 05:53:32 +0000 luckycritic.jackketcham.com (2659)] INFO : Finished instrumentation

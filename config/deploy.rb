@@ -1,4 +1,5 @@
 require 'capistrano/ext/multistage'
+require 'puma/capistrano'
 
 set :application, "luckycritic"
 set :repository,  "git@github.com:c0smic/luckycritic.git"
