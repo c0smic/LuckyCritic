@@ -15,7 +15,6 @@ development:
   database: luckycritic_development
   pool: 5
   username: root
-  password:
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
@@ -28,7 +27,6 @@ test:
   database: luckycritic_test
   pool: 5
   username: root
-  password:
   host: localhost
 
 production:
@@ -38,6 +36,5 @@ production:
   database: luckycritic_production
   pool: 25
   username: root
-  password:
   host: localhost
   socket: /tmp/mysql.sock
