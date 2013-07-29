@@ -1,17 +1,19 @@
-<header class="row">
-    <div class="large-8 columns">
-        <h1>LuckyCritic (working title)</h1>
-    </div>
-  <nav class="large-4 columns">
-    <ul class="inline-list user-info">
-      <% if user_signed_in? %>
-        <li>Logged in as <strong><%= current_user.email %></strong>.</li>
-        <li><%= link_to 'Edit profile', edit_user_registration_path %></li>
-        <li><%= link_to "Logout", destroy_user_session_path, method: :delete %></li>
-      <% else %>
-        <li><%= link_to "Sign up", new_user_registration_path %></li>
-        <li><%= link_to "Login", new_user_session_path %></li>
-      <% end %>
-    </ul>
-  </nav>
-</header>
+<div class="large-8 columns">
+    <a href="/"><h1>Player Shelf (working title)</h1></a>
+</div>
+<nav class="large-4 columns">
+<ul class="inline-list user-info">
+  <% if user_signed_in? %>
+    <% if current_user.admin? %>
+        <li><strong>Greetings admin</strong></li>
+    <% end %>
+    <li>Logged in as <strong><%= current_user.email %></strong></li>
+    <li><%= link_to 'Edit profile', edit_user_registration_path %></li>
+    <li><%= link_to "Logout", destroy_user_session_path, method: :delete %></li>
+  <% else %>
+    <li><%= link_to "Sign up", new_user_registration_path %></li>
+    <li><%= link_to "Login", new_user_session_path %></li>
+    <li><%= link_to "Sign in with Twitter", user_omniauth_authorize_path(:twitter) %></li>
+  <% end %>
+</ul>
+</nav>

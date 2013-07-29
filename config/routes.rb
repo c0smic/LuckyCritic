@@ -1,7 +1,17 @@
 Luckycritic::Application.routes.draw do
-  devise_for :users
+  devise_for :admins
 
-  resources :games
+  devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
+
+  match '/auth/twitter/callback' => 'services#create'
+  resources :services, :only => [:index, :create]
+
+  resources :games do |game|
+    resources :reviews
+      collection do
+        get 'all'
+      end
+  end
 
 
   # The priority is based upon order of creation:

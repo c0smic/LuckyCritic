@@ -34,6 +34,17 @@ Luckycritic::Application.configure do
   # Do not compress assets
   config.assets.compress = false
 
+  # Send emails via Gmail
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.smtp_settings = {
+    :address              => "smtp.gmail.com",
+    :port                 => 587,
+    :domain               => 'gmail.com',
+    :user_name            => 'kcajketcham@gmail.com',
+    :password             => 'Harley09',
+    :authentication       => 'plain',
+    :enable_starttls_auto => true  }
+
   # Expands the lines which load the assets
   config.assets.debug = true
 end

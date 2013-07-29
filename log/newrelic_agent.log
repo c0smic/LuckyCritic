@@ -181,3 +181,185 @@
 [07/26/13 01:58:53 -0700 Mint-Desktop (26253)] INFO : Installing Rails 3.1/3.2 view instrumentation
 [07/26/13 01:58:54 -0700 Mint-Desktop (26253)] INFO : Installing Rails3 Error instrumentation
 [07/26/13 01:58:54 -0700 Mint-Desktop (26253)] INFO : Finished instrumentation
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Enabling the Request Sampler.
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Environment: development
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Dispatcher: mongrel
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Application: My Application
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] WARN : Agent configured not to send data in this environment.
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Installing Net instrumentation
+[07/26/13 03:20:03 -0700 Mint-Desktop (28043)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 03:20:04 -0700 Mint-Desktop (28043)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 03:20:04 -0700 Mint-Desktop (28043)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 03:20:04 -0700 Mint-Desktop (28043)] INFO : Finished instrumentation
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Enabling the Request Sampler.
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Environment: development
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Dispatcher: mongrel
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Application: My Application
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] WARN : Agent configured not to send data in this environment.
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Installing Net instrumentation
+[07/26/13 03:20:20 -0700 Mint-Desktop (28048)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 03:20:21 -0700 Mint-Desktop (28048)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 03:20:21 -0700 Mint-Desktop (28048)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 03:20:21 -0700 Mint-Desktop (28048)] INFO : Finished instrumentation
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Enabling the Request Sampler.
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Environment: development
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Dispatcher: mongrel
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Application: My Application
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] WARN : Agent configured not to send data in this environment.
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Installing Net instrumentation
+[07/26/13 03:30:10 -0700 Mint-Desktop (28294)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 03:30:11 -0700 Mint-Desktop (28294)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 03:30:11 -0700 Mint-Desktop (28294)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 03:30:11 -0700 Mint-Desktop (28294)] INFO : Finished instrumentation
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Enabling the Request Sampler.
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Environment: development
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Dispatcher: mongrel
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Application: PlayerShelf
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] WARN : Agent configured not to send data in this environment.
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Installing Net instrumentation
+[07/26/13 15:55:11 -0700 Mint-Desktop (2016)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 15:55:12 -0700 Mint-Desktop (2016)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 15:55:12 -0700 Mint-Desktop (2016)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 15:55:12 -0700 Mint-Desktop (2016)] INFO : Finished instrumentation
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Enabling the Request Sampler.
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Environment: development
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Dispatcher: mongrel
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Application: PlayerShelf
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] WARN : Agent configured not to send data in this environment.
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Installing Net instrumentation
+[07/26/13 15:58:59 -0700 Mint-Desktop (2162)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 15:59:00 -0700 Mint-Desktop (2162)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 15:59:00 -0700 Mint-Desktop (2162)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 15:59:00 -0700 Mint-Desktop (2162)] INFO : Finished instrumentation
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Enabling the Request Sampler.
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Environment: development
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Dispatcher: mongrel
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Application: PlayerShelf
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] WARN : Agent configured not to send data in this environment.
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Installing Net instrumentation
+[07/26/13 16:12:11 -0700 Mint-Desktop (2440)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 16:12:12 -0700 Mint-Desktop (2440)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 16:12:12 -0700 Mint-Desktop (2440)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 16:12:12 -0700 Mint-Desktop (2440)] INFO : Finished instrumentation
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Enabling the Request Sampler.
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Environment: development
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Dispatcher: mongrel
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Application: PlayerShelf
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] WARN : Agent configured not to send data in this environment.
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Installing Net instrumentation
+[07/26/13 16:12:24 -0700 Mint-Desktop (2444)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 16:12:25 -0700 Mint-Desktop (2444)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 16:12:25 -0700 Mint-Desktop (2444)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 16:12:25 -0700 Mint-Desktop (2444)] INFO : Finished instrumentation
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Enabling the Request Sampler.
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Environment: development
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Dispatcher: mongrel
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Application: PlayerShelf
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] WARN : Agent configured not to send data in this environment.
+[07/26/13 16:18:47 -0700 Mint-Desktop (2707)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 16:18:48 -0700 Mint-Desktop (2707)] INFO : Installing Net instrumentation
+[07/26/13 16:18:48 -0700 Mint-Desktop (2707)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 16:18:48 -0700 Mint-Desktop (2707)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 16:18:48 -0700 Mint-Desktop (2707)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 16:18:48 -0700 Mint-Desktop (2707)] INFO : Finished instrumentation
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Enabling the Request Sampler.
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Environment: development
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Dispatcher: mongrel
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Application: PlayerShelf
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] WARN : Agent configured not to send data in this environment.
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Installing Net instrumentation
+[07/26/13 16:26:27 -0700 Mint-Desktop (2923)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 16:26:28 -0700 Mint-Desktop (2923)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 16:26:28 -0700 Mint-Desktop (2923)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 16:26:28 -0700 Mint-Desktop (2923)] INFO : Finished instrumentation
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Enabling the Request Sampler.
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Environment: development
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Dispatcher: mongrel
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Application: PlayerShelf
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] WARN : Agent configured not to send data in this environment.
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Installing Net instrumentation
+[07/26/13 17:06:06 -0700 Mint-Desktop (3873)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 17:06:07 -0700 Mint-Desktop (3873)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 17:06:07 -0700 Mint-Desktop (3873)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 17:06:07 -0700 Mint-Desktop (3873)] INFO : Finished instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Enabling the Request Sampler.
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Environment: development
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Dispatcher: mongrel
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Application: PlayerShelf
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] WARN : Agent configured not to send data in this environment.
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Installing Net instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 17:13:03 -0700 Mint-Desktop (3981)] INFO : Finished instrumentation
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Starting the New Relic agent in "development" environment.
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Reading configuration from config/newrelic.yml
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Enabling the Request Sampler.
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Environment: development
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Dispatcher: mongrel
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Application: PlayerShelf
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] WARN : Agent configured not to send data in this environment.
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Installing ActiveRecord instrumentation
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Installing Net instrumentation
+[07/26/13 17:13:33 -0700 Mint-Desktop (3993)] INFO : Installing Rails 3 Controller instrumentation
+[07/26/13 17:13:34 -0700 Mint-Desktop (3993)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/26/13 17:13:34 -0700 Mint-Desktop (3993)] INFO : Installing Rails3 Error instrumentation
+[07/26/13 17:13:34 -0700 Mint-Desktop (3993)] INFO : Finished instrumentation
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Starting the New Relic agent in "development" environment.
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Reading configuration from config/newrelic.yml
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Enabling the Request Sampler.
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Environment: development
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Dispatcher: mongrel
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] INFO : Application: PlayerShelf
+[07/27/13 01:49:15 -0700 Mint-Desktop (9091)] WARN : Agent configured not to send data in this environment.
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing ActiveRecord instrumentation
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Net instrumentation
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Rails 3 Controller instrumentation
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Rails3 Error instrumentation
+[07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Finished instrumentation

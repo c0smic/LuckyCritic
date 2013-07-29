@@ -1,5 +1,5 @@
 require 'capistrano/ext/multistage'
-require 'puma/capistrano'
+require 'capistrano-puma'
 
 set :application, "198.199.112.53"
 set :repository,  "git@github.com:c0smic/luckycritic.git"

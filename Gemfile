@@ -3,6 +3,10 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.13'
 gem 'puma'
 
+# OmniAuth Oauth
+gem 'omniauth'
+gem 'omniauth-twitter'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
@@ -41,6 +45,7 @@ gem 'devise'
 
 # Deploy with Capistrano
 gem 'capistrano'
+gem 'capistrano-puma'
 
 # To use debugger
 # gem 'debugger'
