@@ -1,8 +1,8 @@
 require 'capistrano/ext/multistage'
 require 'capistrano-puma'
 
-set :application, "198.199.112.53"
-set :repository,  "git@github.com:c0smic/luckycritic.git"
+set :application, "playershelf"
+set :repository,  "git@github.com:c0smic/LuckyCritic.git"
 
 set :stages, ["staging", "production"]
 set :default_stage, "production"
@@ -12,12 +12,8 @@ set :user, "deployer"
 
 default_run_options[:pty] = true
 set :deploy_via, :remote_cache
-set :ssh_options, { :forward_agent => true }
 
-role :web, application
-role :app, application
-role :db,  application, :primary => true # This is where Rails migrations will run
-role :db,  application
+server "198.199.112.53", :web, :app, :db, { primary => true }
 
 # if you want to clean up old releases on each deploy uncomment this:
 # after "deploy:restart", "deploy:cleanup"
