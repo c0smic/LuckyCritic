@@ -29,6 +29,12 @@ group :assets do
   gem 'zurb-foundation', '~> 4.0.0'
 end
 
+group :development do
+  #gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'meta_request'
+end
+
 gem 'jquery-rails'
 
 # Devise user account system
@@ -45,7 +51,7 @@ gem 'devise'
 
 # Deploy with Capistrano
 gem 'capistrano'
-gem 'capistrano-puma'
+# gem 'capistrano-puma'
 
 # To use debugger
 # gem 'debugger'

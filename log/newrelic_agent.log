@@ -363,3 +363,73 @@
 [07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Rails 3.1/3.2 view instrumentation
 [07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Installing Rails3 Error instrumentation
 [07/27/13 01:49:16 -0700 Mint-Desktop (9091)] INFO : Finished instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Starting the New Relic agent in "development" environment.
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Reading configuration from config/newrelic.yml
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Enabling the Request Sampler.
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Environment: development
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Dispatcher: mongrel
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Application: PlayerShelf
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] WARN : Agent configured not to send data in this environment.
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Installing ActiveRecord instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Installing Net instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Installing Rails 3 Controller instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Installing Rails3 Error instrumentation
+[07/29/13 10:48:05 -0700 Mobile-Linux (24592)] INFO : Finished instrumentation
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Starting the New Relic agent in "development" environment.
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Reading configuration from config/newrelic.yml
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Enabling the Request Sampler.
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Environment: development
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Dispatcher: mongrel
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Application: PlayerShelf
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] WARN : Agent configured not to send data in this environment.
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Installing ActiveRecord instrumentation
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Installing Net instrumentation
+[07/29/13 10:49:59 -0700 Mobile-Linux (25570)] INFO : Installing Rails 3 Controller instrumentation
+[07/29/13 10:50:00 -0700 Mobile-Linux (25570)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/29/13 10:50:00 -0700 Mobile-Linux (25570)] INFO : Installing Rails3 Error instrumentation
+[07/29/13 10:50:00 -0700 Mobile-Linux (25570)] INFO : Finished instrumentation
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Starting the New Relic agent in "development" environment.
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Reading configuration from config/newrelic.yml
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Enabling the Request Sampler.
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Environment: development
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Dispatcher: mongrel
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Application: PlayerShelf
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] WARN : Agent configured not to send data in this environment.
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Installing ActiveRecord instrumentation
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Installing Net instrumentation
+[07/29/13 11:24:52 -0700 Mobile-Linux (25833)] INFO : Installing Rails 3 Controller instrumentation
+[07/29/13 11:24:53 -0700 Mobile-Linux (25833)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/29/13 11:24:53 -0700 Mobile-Linux (25833)] INFO : Installing Rails3 Error instrumentation
+[07/29/13 11:24:53 -0700 Mobile-Linux (25833)] INFO : Finished instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Starting the New Relic agent in "development" environment.
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Reading configuration from config/newrelic.yml
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Enabling the Request Sampler.
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Environment: development
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Dispatcher: mongrel
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Application: PlayerShelf
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] WARN : Agent configured not to send data in this environment.
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Installing ActiveRecord instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Installing Net instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Installing Rails 3 Controller instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Installing Rails3 Error instrumentation
+[07/29/13 11:32:07 -0700 Mobile-Linux (27812)] INFO : Finished instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Starting the New Relic agent in "development" environment.
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Reading configuration from config/newrelic.yml
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Enabling the Request Sampler.
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Environment: development
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Dispatcher: mongrel
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Application: PlayerShelf
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] WARN : Agent configured not to send data in this environment.
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Installing ActiveRecord instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Installing Net instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Installing Rails 3 Controller instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Installing Rails3 Error instrumentation
+[07/29/13 11:49:21 -0700 Mobile-Linux (19091)] INFO : Finished instrumentation

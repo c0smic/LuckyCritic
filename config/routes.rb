@@ -8,9 +8,6 @@ Luckycritic::Application.routes.draw do
 
   resources :games do |game|
     resources :reviews
-      collection do
-        get 'all'
-      end
   end
 
 
